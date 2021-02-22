@@ -15,3 +15,5 @@ It generates:
 * Table of Incident details
 
 PS: The selected timeframe is: last 30 days. 
+
+You can clean it, enhance it and use it in your code
