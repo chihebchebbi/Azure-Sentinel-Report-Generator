@@ -1,4 +1,4 @@
-# Azure Sentinel Report Generator
+# Azure Sentinel Report Generator (Code Snippet)
 
 ![](Report-Generator.png)
 
